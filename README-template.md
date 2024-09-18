@@ -31,12 +31,10 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ldonnianni/faq-accordion]
+- Live Site URL: [https://ldonnianni.github.io/faq-accordion/]
 
 ## My process
 

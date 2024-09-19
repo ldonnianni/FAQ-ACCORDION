@@ -98,7 +98,7 @@ body{
 }
 
 
-@media (min-width: 375px){
+@media (min-width: 550px){
     body {
         background-image: url(./assets/images/background-pattern-desktop.svg);
     }
